@@ -4,7 +4,7 @@ I study finance at **Texas A&M's Mays Business School** (BBA, expected August 20
 
 **Portfolio:** [ben-williams-portfolio-production.up.railway.app](https://ben-williams-portfolio-production.up.railway.app)
 
-Most of my code lives in private repos. The showcase repos below explain each project with screenshots, architecture and numbers, and **code is available on request**.
+Some of my code is public (the prediction-market research and this portfolio). For the apps, the showcase repos explain each project with screenshots, architecture and numbers, and **code is available on request**.
 
 ---
 
@@ -35,9 +35,9 @@ An AI study tool that won't answer without a source. It turns a student's own le
 
 Can a $10K account profit from price gaps between Kalshi and Polymarket? I built a system to test it against real fees, latency and order-book depth. No strategy proved profitable, and I stopped each one at a failure signal set in advance.
 
-- 2.07M order-book snapshots, 9,364 matched market groups, 293 regression tests
+- 2.07M order-book snapshots, 9,364 matched market groups, ~29K lines of Python
 
-[Showcase](https://github.com/benw13/prediction-market-research)
+[Code](https://github.com/benw13/prediction-market-research)
 
 ### Also
 
