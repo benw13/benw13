@@ -1,8 +1,8 @@
 ## Hi, I'm Ben Williams
 
-I study finance at **Texas A&M's Mays Business School** (BBA, expected May 2027), and I build software on the side. Right now I'm also B2C Strategy Lead at Ucardia, a heart health software company.
+I study finance at **Texas A&M's Mays Business School** (BBA, expected May 2027), and I build software on the side. Right now I'm interning at Ucardia.
 
-**Portfolio:** [ben-williams-portfolio-production.up.railway.app](https://ben-williams-portfolio-production.up.railway.app)
+
 
 Some of my code is public (the prediction-market research and this portfolio). For the apps, the showcase repos explain each project with screenshots, architecture and numbers, and **code is available on request**.
 
